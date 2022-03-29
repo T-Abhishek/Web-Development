@@ -1,0 +1,17 @@
+
+a:link{color:#8B0000;} /*unvisited link*/
+a:visited{color:#228B22;}/*visited link*/
+a:hover{color:#9932CC;}/*mouse over link*/
+a:active{color:#FFD700;}/*selected link*/
+
+h1
+{
+font:italic bold 13px/30px Georgia,serf;
+}
+
+td
+{
+font:italic bold 13px/30px Georgia,serf;
+}
+
+</style>
